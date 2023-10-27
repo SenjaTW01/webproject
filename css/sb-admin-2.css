@@ -10865,7 +10865,7 @@ a:focus {
   background: url("../img/adit[1].svg");
   /* BACKGROUND POSITION UBAH KALO MAU  */ 
   background-position: center;
-  background-size: contain;
+  background-size: 80%;
   background-repeat: no-repeat;
 }
 
