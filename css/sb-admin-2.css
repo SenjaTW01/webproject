@@ -9900,8 +9900,8 @@ a:focus {
 }
 
 .bg-gradient-primary {
-  background-color: white;
-  background-image: linear-gradient(200deg, gray 3%, #224abe 100%);
+  background-color: lightblue;
+  background-image: linear-gradient(200deg, #6671f7 15%, #005bea 70%);
   background-size: cover;
 }
 
@@ -10861,10 +10861,12 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("https://img.freepik.com/free-vector/tablet-login-concept-illustration_114360-7963.jpg?w=826&t=st=1698423207~exp=1698423807~hmac=516a771ded63144c20fd55ee086fa0075f014e2ed1842ab93a34f4a190d6fd53");
+  /* BACKGROUND IMAGE GANTI AJA KALAU MAU LINKNYA DIBAWAH */
+  background: url("https://img.freepik.com/free-vector/my-password-concept-illustration_114360-4294.jpg?w=826&t=st=1698425212~exp=1698425812~hmac=9757416c7511e2057691ab196f71a7b4ca359442f112ca114c752fa43ae1adef");
   /* BACKGROUND POSITION UBAH KALO MAU  */ 
   background-position: center;
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .bg-register-image {
