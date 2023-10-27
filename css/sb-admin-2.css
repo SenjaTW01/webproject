@@ -9900,8 +9900,8 @@ a:focus {
 }
 
 .bg-gradient-primary {
-  background-color: #4e73df;
-  background-image: linear-gradient(180deg, #4e73df 10%, #224abe 100%);
+  background-color: white;
+  background-image: linear-gradient(200deg, gray 3%, #224abe 100%);
   background-size: cover;
 }
 
@@ -10861,7 +10861,8 @@ a:focus {
 }
 
 .bg-login-image {
-  background: url("https://source.unsplash.com/K4mSJ7kc0As/600x800");
+  background: url("https://img.freepik.com/free-vector/tablet-login-concept-illustration_114360-7963.jpg?w=826&t=st=1698423207~exp=1698423807~hmac=516a771ded63144c20fd55ee086fa0075f014e2ed1842ab93a34f4a190d6fd53");
+  /* BACKGROUND POSITION UBAH KALO MAU  */ 
   background-position: center;
   background-size: cover;
 }
