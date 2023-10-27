@@ -9932,7 +9932,7 @@ a:focus {
 .bg-register-image {
   background: url(/img/regristasi.png);
   background-position: center;
-  background-size: cover;
+  background-size: contain;
 }
 .bg-password-image {
   background: url(https://source.unsplash.com/oWTW-jNGl9I/600x800);
